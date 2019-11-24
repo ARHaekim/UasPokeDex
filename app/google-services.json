@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688281423953",
+    "firebase_url": "https://pokedex-idn.firebaseio.com",
+    "project_id": "pokedex-idn",
+    "storage_bucket": "pokedex-idn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688281423953:android:668d5fa474feb9c1ace870",
+        "android_client_info": {
+          "package_name": "com.example.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688281423953-8u6q6p0bc0uerq5mvt9pgb6md8r6794v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokedex",
+            "certificate_hash": "3fa158679669004a6bfe1ae337e536a47200d23f"
+          }
+        },
+        {
+          "client_id": "688281423953-0am9vq0qig3ei4s145uah83u82ivi47i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrC3luINr6XGiFQiAt9ONqy90tHWCDA0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688281423953-0am9vq0qig3ei4s145uah83u82ivi47i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

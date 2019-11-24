@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/image"
+        android:layout_marginRight="10dp"/>
+
+
+    <TextView
+        android:id="@+id/nama_poke"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000"
+        android:text="Judul"
+        android:layout_toRightOf="@+id/image"
+        android:textStyle="bold"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/type_poke"
+        android:text="Waktu"
+        android:layout_toRightOf="@+id/image"
+        android:layout_below="@+id/nama_poke"/>
+
+
+
+</RelativeLayout>
